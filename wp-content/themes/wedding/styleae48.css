@@ -1,0 +1,17 @@
+/*
+Theme Name: Wedding
+Theme URI: http://www.nicdark.com
+Description: Wonderful theme for your Business.
+Author: Nicdark
+Author URI: http://www.nicdarkthemes.com
+Version: 1.0
+License: http://www.nicdarkthemes.com
+License URI: http://www.nicdarkthemes.com
+Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: wedding
+*/
+
+/* 1 ------------------------------------------------------- THEME STRUCTURE ------------------------------------------------------- */
+
+/* 1.1 body */
+body { margin:0px; padding:0px; overflow-x: hidden;  }
